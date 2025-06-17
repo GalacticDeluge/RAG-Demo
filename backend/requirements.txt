@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+langchain
+openai
+google-generativeai
+chromadb
+pypdf
